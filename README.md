@@ -13,3 +13,7 @@
 
 ```bash
 pip install -r requirements.txt
+
+
+## 使用
+python app.py
