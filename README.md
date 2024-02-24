@@ -16,4 +16,5 @@ pip install -r requirements.txt
 
 
 ## 使用
+```bash
 python app.py
