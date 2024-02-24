@@ -1,4 +1,4 @@
-# My Side Project
+# Side Project
 
 這是一個使用 Flask 建立的簡單天氣查詢網站。它允許用戶查看台灣各大城市的即時天氣數據。
 
